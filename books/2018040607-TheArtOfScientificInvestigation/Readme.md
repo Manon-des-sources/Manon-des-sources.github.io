@@ -8,5 +8,5 @@
 ![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/001.png)
 
 * 摘录  
-* 事实数据不要受到期望与推理的强行解释：  
+* 事实数据不要受到期望与推理的强行解释  
 ![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/002.png)
