@@ -1,7 +1,5 @@
 ## [Welcome to My Home Page](https://manon-des-sources.github.io)
 
-### My Timing
-[what I've done in 2017](https://github.com/Manon-des-sources/Manon-des-sources.github.io/wiki/2017)
 
 
 
