@@ -5,11 +5,11 @@
 *      科学出版社. 1979  
 
 * 本书的叙述重于科学研究过程中的心理活动和具体实践、而非逻辑学与哲学的传统方法  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/001.png)
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/001.png)
 
 * 摘录  
 * 事实数据不要受到期望与推理的强行解释  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/002.png)
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/002.png)
 
 * 在线阅读  
 [科學之路](http://juang.bst.ntu.edu.tw/art%20science/ASI0.htm#Contents)

@@ -15,11 +15,11 @@
 *  
 二、原文  
 * 假说的作用  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/006.png)  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/007.png)  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/008.png)  
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/006.png)  
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/007.png)  
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/008.png)  
 
 * 假说有风险：  
 *    客观对待数据、不将数据是为是假说的附庸、而是数据道出了假说  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/009.png)  
-![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/010.png)  
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/009.png)  
+![photo](/books/2018040607-The-Art-of-Scientific-Investigation/photo/010.png)  
