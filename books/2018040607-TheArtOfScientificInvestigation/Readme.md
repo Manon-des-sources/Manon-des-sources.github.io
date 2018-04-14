@@ -10,3 +10,6 @@
 * 摘录  
 * 事实数据不要受到期望与推理的强行解释  
 ![photo](/books/2018040607-TheArtOfScientificInvestigation/photo/002.png)
+
+* 在线阅读  
+[科學之路](http://juang.bst.ntu.edu.tw/art%20science/ASI0.htm#Contents)
